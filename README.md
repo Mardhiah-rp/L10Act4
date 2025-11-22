@@ -7,6 +7,4 @@ I used a component that handles image rendering, alternating layout and expandab
 
 Demo of App
 
-<p align="center">
-  <img src="img/preview.gif" width="300"/>
-</p>
+![App Demo](preview.gif)
