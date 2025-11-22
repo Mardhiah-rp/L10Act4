@@ -7,4 +7,4 @@ I used a component that handles image rendering, alternating layout and expandab
 
 Demo of App
 
-![App Demo](preview.gif)
+![App Demo](img/preview.gif)
